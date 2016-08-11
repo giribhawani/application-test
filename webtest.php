@@ -1,3 +1,6 @@
+<!--Document: webtest.php
+author: Bhawani Giri Bhandari
+-->
 <?php
     $people = array(
     array('id'=>1, 'first_name'=>'John', 'last_name'=>'Smith', 'email'=>'john.smith@hotmail.com'),
