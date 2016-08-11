@@ -29,6 +29,7 @@ author: Bhawani Giri Bhandari
     //Sorry, count not alert name and email when button is clicked. Still Working on the alertName()- a javaScirpt function and 
     //php function....
 }
+//for loop ends
  echo "</tr>";
  echo "</table>";
  //Table ends
