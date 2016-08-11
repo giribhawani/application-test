@@ -11,7 +11,7 @@
     echo "<th>ID</th><th>First Name</th><th>Last Name</th><th>Email</th></tr>";
 
     for($i=0; $i< sizeof($people); $i++){
-    $nameEmail = "Name ".$people[$i]['first_name']." ".$people[$i]['last_name']." Email: ".$people[$i]['email'];
+    //$nameEmail = "Name ".$people[$i]['first_name']." ".$people[$i]['last_name']." Email: ".$people[$i]['email'];
     echo "<tr>";
     echo "<td>".$people[$i]['id']."</td>";
     echo "<td>".$people[$i]['first_name']."</td>";
