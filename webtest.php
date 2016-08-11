@@ -19,7 +19,7 @@
     echo "<td>".$people[$i]['email']."</td>";
     echo "<td><input type='button' id='btn' onclick= 'alertName()' value='Click Here' /></tr>";
     
-    //Sorry, count not alert name and email when button is clicked. 
+    //Sorry, count not alert name and email when button is clicked. Working....
 }
  echo "</tr>";
  echo "</table>";
